@@ -11,4 +11,4 @@ This is a simple Random Password Generator developed by usig basic knowledge of
 
 # Checkout Live -  
 
-You Can Use My To Do list by visiting - https://amanjh01.github.io/Password_Generator/
+Web Link - https://amanjh01.github.io/Password_Generator/
